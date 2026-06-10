@@ -2,22 +2,17 @@
 
 🎓 M.Sc. Cognitive Science — University of Osnabrück
 
-> 💬 I'm currently looking to join a team working in neurotech / neuroAI / 
-> digital health. Let's discuss ideas, opportunities, anything!
+I'm currently looking to join a team working in neurotech / neuroAI / digital health. Let's discuss ideas, opportunities, anything!
 
----
 
-## 🧠 Expertise & Interests
-
-**Fields**
+**My areas of expertise are:**
 `Computational Neuroscience` `Neuroinformatics` `Machine Learning` `AI` `Cognitive Psychology`
 
-**I want to work on**
-`Neurotech` `Brain-Computer Interfaces` `AI for medicine & health` `Digital health` `Mental health & stress`
+**I want to work on:**
+`Neurotech` `Brain-Computer Interfaces` `AI for medicine & health` `Digital health` 
 
----
 
-## 🔬 Projects & Research
+## Projects I have worked on:
 
 **🌙 Redream AI** — Co-developed an AI-powered web app to track and treat 
 nightmares using cognitive-behavioural therapy techniques  
@@ -29,7 +24,7 @@ spatial perception and navigation using mobile EEG, eye-tracking, and VR
 **🤖 CIMeC** — Built brain encoding models to probe object recognition in 
 biological and artificial neural networks using fMRI and DCNNs
 
----
+
 
 ## 🛠️ Skills
 
@@ -45,14 +40,14 @@ biological and artificial neural networks using fMRI and DCNNs
 |-----------|-------------|-----------------|---------|
 | Python • MATLAB • R • C++ • C# | FastAPI • Flutter • MySQL • Docker • CI/CD | FieldTrip • EEGLAB • MNE • SPM | torchvision • scikit-learn |
 
----
+
 
 ## 🌱 Currently
 
 - Deepening my machine learning and software engineering skills
 - Open to practical experience and job opportunities
 
----
+
 
 ## 📎 Links
 
