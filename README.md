@@ -4,7 +4,7 @@
 
 I'm currently looking to join a team working in neurotech / neuroAI / digital health. Let's discuss ideas, opportunities, anything!
 
-
+I am on LinkedIn:
 <a href="https://www.linkedin.com/in/luna-döring-37041b1b8/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
        width="30" height="30"/>
