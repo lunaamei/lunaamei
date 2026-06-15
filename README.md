@@ -4,6 +4,8 @@
 
 I'm currently looking to join a team working in neurotech / neuroAI / digital health. Let's discuss ideas, opportunities, anything!
 
+[LinkedIn](https://www.linkedin.com/in/luna-döring-37041b1b8/)
+
 
 **My areas of expertise are:**
 `Computational Neuroscience` `Neuroinformatics` `Machine Learning` `AI` `Cognitive Psychology`
@@ -29,24 +31,16 @@ torchvision • scikit-learn
 
 ## Previous projects:
 
-**[redreamai](https://redreamai.com/index.html?theme=dark&lang=en)** — Co-developed an AI-powered web app to track and treat 
+**[redreamai](https://redreamai.com/index.html?theme=dark&lang=en)**: Co-developed an AI-powered web app to track and treat 
 nightmares using cognitive-behavioural therapy techniques
-**[feelSpace]([https://redreamai.com/index.html?theme=dark&lang=en](https://feelspace.de/en/))** — Investigated how vibrotactile sensory augmentation affects 
+**[feelSpace](https://feelspace.de/en/)**: Investigated how vibrotactile sensory augmentation affects 
 spatial perception and navigation using mobile EEG, eye-tracking, and VR
 
-**[Object Viion Group, Cimec](https://www.cimec.unitn.it/en/1048/object-vision-group)** — Built brain encoding models to probe object recognition in 
-biological and artificial neural networks using fMRI and DCNNs
+**[Object Vision Group, Cimec](https://www.cimec.unitn.it/en/1048/object-vision-group)**: Built brain encoding models to investigate object recognition in biological and artificial neural networks
 
 
 
-## 🌱 Currently
+## 🌱 Currently...
 
 - Deepening my machine learning and software engineering skills
 - Open to practical experience and job opportunities
-
-
-## 📎 Links
-
-- 📄 [Master's Thesis](#)
-- 📋 [CV](#)
-- 💼 [LinkedIn](#)
