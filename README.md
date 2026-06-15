@@ -4,7 +4,11 @@
 
 I'm currently looking to join a team working in neurotech / neuroAI / digital health. Let's discuss ideas, opportunities, anything!
 
-[LinkedIn](https://www.linkedin.com/in/luna-döring-37041b1b8/)
+
+<a href="https://www.linkedin.com/in/luna-döring-37041b1b8/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="30" height="30"/>
+</a>
 
 
 **My areas of expertise are:**
@@ -33,6 +37,7 @@ torchvision • scikit-learn
 
 **[redreamai](https://redreamai.com/index.html?theme=dark&lang=en)**: Co-developed an AI-powered web app to track and treat 
 nightmares using cognitive-behavioural therapy techniques
+
 **[feelSpace](https://feelspace.de/en/)**: Investigated how vibrotactile sensory augmentation affects 
 spatial perception and navigation using mobile EEG, eye-tracking, and VR
 
