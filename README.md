@@ -48,4 +48,5 @@ spatial perception and navigation using mobile EEG, eye-tracking, and VR
 ## 🌱 Currently...
 
 - Deepening my machine learning and software engineering skills
+- Vibe-coding an AI assistant for task managing and time planning ➡️ [Platypus App](https://lunaamei.github.io/platypus/)
 - Open to practical experience and job opportunities
